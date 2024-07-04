@@ -1,5 +1,9 @@
 # PowerBI_Express-Simplifica
 
+<div align="center">
+<img src="![Certificado - Simplifica Power BI Express](https://github.com/Jottiinha/PowerBI_Express-Simplifica/assets/97920946/934e93cf-2083-4241-a860-bae6fea6987d)" width="500px"/>
+</div>
+
 Estes são os resultados dos 4 projetos desenvolvidos no curso, onde foram utilizados problemas e necessidades comuns de algumas empresas para construir um Dashboard interativo e com todas as demandas solicitadas pela situação problema presentes.
 
 --[DASHBOARD DE ANÁLISE DE VENDAS](https://github.com/Jottiinha/PowerBI_Express-Simplifica/tree/main/1-%20An%C3%A1lise%20de%20Vendas):

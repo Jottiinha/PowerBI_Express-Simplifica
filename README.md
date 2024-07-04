@@ -1,6 +1,6 @@
 # PowerBI_Express-Simplifica
 
-Estes são os resultados dos 4 projetos desenvolvidos no curso, onde foram utilizados problemas e necessidades comuns e algumas empresas para construir um Dashboard interativo e com todas as demandas solicitadas pela situação problema presentes.
+Estes são os resultados dos 4 projetos desenvolvidos no curso, onde foram utilizados problemas e necessidades comuns de algumas empresas para construir um Dashboard interativo e com todas as demandas solicitadas pela situação problema presentes.
 
 --[DASHBOARD DE ANÁLISE DE VENDAS](https://github.com/Jottiinha/PowerBI_Express-Simplifica/tree/main/1-%20An%C3%A1lise%20de%20Vendas):
 
